@@ -4,15 +4,15 @@ layout: default
 
 I am a Ph.D. student in the [Programming Languages Lab](https://pl.cs.pku.edu.cn/en/)
 of [Peking University](https://english.pku.edu.cn/). I am advised by Prof. [Zhenjiang Hu](https://zhenjiang888.github.io/). 
-My broad research interest lies in programming languages.
+My broad research interest lies in programming languages, and
 I am currently focused on implementing domain-specific languages (DSLs) and their supporting tooling, with a particular emphasis on IDEs for DSLs.
 
 ## Education
-- Integrated MSc-PhD in Computer Science, 2022-
+#### Integrated MSc-PhD in Computer Science, 2022-
 
 <p class="comment">Programming Languages Lab, School of Computer Science, Peking University</p>
 
-- BSc in Computer Science, 2018-2022
+#### BSc in Computer Science, 2018-2022
 <p class="comment">School of EECS, Peking University</p>
 
 ## Publications 
